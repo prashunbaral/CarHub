@@ -1,4 +1,4 @@
-<h1>Car Hub App</h1>h1>
+<h1>Car Hub App</h1>
 Welcome to the Car Hub App repository! This web application allows users to search for cars by name and model number, filter by gas, fuel, or electricity, and browse by manufacturing year.
 
 <h3>Technologies Used</h3>
