@@ -6,6 +6,7 @@ Welcome to the Car Hub App repository! This web application allows users to sear
 - Next.js
 - TypeScript
 - Tailwind CSS
+- Client Side Rendering
 <h3>Installation</h3>
 To run the Car Hub App locally:
 
