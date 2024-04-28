@@ -22,3 +22,4 @@ To run the Car Hub App locally:
 - Browse cars by manufacturing year.
 
 <h1>Hosted at: https://car-hub-iota-blue.vercel.app/</h1>
+some models' pictures may not appear due to unavailibility from the API
